@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
-  if "I LOVE YOU GRANDMA!"
+  if "I LOVE YOU GRANDMA!".upcase
     puts "I LOVE YOU TOO PUMPKIN!"
   elsif
     puts "HUH?! SPEAK UP, SONNY!"
