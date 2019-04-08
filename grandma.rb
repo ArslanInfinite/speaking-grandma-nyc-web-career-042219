@@ -19,3 +19,5 @@ def speak_to_grandma
   end
 
 end
+
+speak_to_grandma
